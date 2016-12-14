@@ -9,7 +9,7 @@ namespace Bitzer_WebApiTesting
     {
         public static string Environment { get; } = "Development";
         public static string BaseUrl { get; set; }
-
+           
         #region Constructor
         public WebApiTest()
         {
