@@ -28,9 +28,7 @@ namespace Bitzer_WebApiTesting
 
         }
         #endregion
-
-
-
+        
         [Fact]
         public void GetRoles()
         {
